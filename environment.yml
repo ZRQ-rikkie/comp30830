@@ -1,0 +1,11 @@
+name: comp_30830
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - autopep8
+  - numpy
+  - pandas
+  - jupyterlab
+prefix: F:\Users\98692\anaconda3\envs\comp_30830
